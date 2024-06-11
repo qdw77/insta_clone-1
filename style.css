@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 404de008cae5ff7189b2d9ace553c94ea2c0d74a
 :root {
   --body-bg: #fafafa;
   --box-bg: #fff;
@@ -17,6 +20,7 @@
   --box-bg: #151515;
   --box-border-color: #262626;
   --txt-color: #d2d2d2;
+<<<<<<< HEAD
 }
 
 body{
@@ -24,3 +28,6 @@ body{
   color: var(--box-bg);
 }
 
+=======
+}
+>>>>>>> 404de008cae5ff7189b2d9ace553c94ea2c0d74a
